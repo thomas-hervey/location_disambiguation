@@ -1,0 +1,36 @@
+{
+  "created_at": "Wed Mar 01 02:00:09 +0000 2017",
+  "id": 836757922088640500,
+  "id_str": "836757922088640512",
+  "text": "RT @WorstTimelines: Interdimensional Travel Advisory: Baseline Timeline currently at high levels of #JointAddress, recommend routing thru B…",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "JointAddress",
+        "indices": [
+          100,
+          113
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "WorstTimelines",
+        "name": "very bad timelines",
+        "id": 2414766114,
+        "id_str": "2414766114",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  }
+}

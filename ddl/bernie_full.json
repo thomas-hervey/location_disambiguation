@@ -1,0 +1,3111 @@
+{
+  "statuses":  [
+     {
+      "created_at": "Wed Mar 01 02:00:09 +0000 2017",
+      "id": 836757922088640500,
+      "id_str": "836757922088640512",
+      "text": "RT @WorstTimelines: Interdimensional Travel Advisory: Baseline Timeline currently at high levels of #JointAddress, recommend routing thru B…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "JointAddress",
+            "indices":  [
+              100,
+              113
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "WorstTimelines",
+            "name": "very bad timelines",
+            "id": 2414766114,
+            "id_str": "2414766114",
+            "indices":  [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 4273142360,
+        "id_str": "4273142360",
+        "name": "Strong Style Story",
+        "screen_name": "StrongStylStory",
+        "location": "United States",
+        "description": "In which we try to make sense of New Japan Pro Wrestling - Now on iTunes! https://t.co/IABUee2X5V #njpw Email: strongstylestory@gmail.com",
+        "url": "https://t.co/oo3oRSWJs5",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/oo3oRSWJs5",
+                "expanded_url": "http://strongstylestory.tumblr.com",
+                "display_url": "strongstylestory.tumblr.com",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "https://t.co/IABUee2X5V",
+                "expanded_url": "http://strongstylestory.podomatic.com",
+                "display_url": "strongstylestory.podomatic.com",
+                "indices":  [
+                  74,
+                  97
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 480,
+        "friends_count": 479,
+        "listed_count": 23,
+        "created_at": "Wed Nov 18 00:26:07 +0000 2015",
+        "favourites_count": 12490,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20054,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/778380728815849473/8VUItm1r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/778380728815849473/8VUItm1r_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4273142360/1485568663",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Mar 01 02:00:00 +0000 2017",
+        "id": 836757885396865000,
+        "id_str": "836757885396865032",
+        "text": "Interdimensional Travel Advisory: Baseline Timeline currently at high levels of #JointAddress, recommend routing thru Bernie Won Timeline.",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "JointAddress",
+              "indices":  [
+                80,
+                93
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 2414766114,
+          "id_str": "2414766114",
+          "name": "very bad timelines",
+          "screen_name": "WorstTimelines",
+          "location": "an unbounded multiverse",
+          "description": "tweets from horrifying theoretical alternate dystopian realities somehow worse than ours",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 117,
+          "friends_count": 791,
+          "listed_count": 1,
+          "created_at": "Thu Mar 27 18:51:28 +0000 2014",
+          "favourites_count": 94,
+          "utc_offset": -14400,
+          "time_zone": "Atlantic Time (Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 59,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449267245651202049/mE9eihrm.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449267245651202049/mE9eihrm.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/834672930151804928/9IxKDFys_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/834672930151804928/9IxKDFys_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2414766114/1487837206",
+          "profile_link_color": "A80000",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:09 +0000 2017",
+      "id": 836757921652301800,
+      "id_str": "836757921652301824",
+      "text": "Ur correct,@Anthony_Parisii. Bernie said "no" to a "new people's party". @WoobieTuesday @SirJamesGray",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Anthony_Parisii",
+            "name": "Anthony Parisi",
+            "id": 59525398,
+            "id_str": "59525398",
+            "indices":  [
+              11,
+              27
+            ]
+          },
+           {
+            "screen_name": "WoobieTuesday",
+            "name": "Woobie Tuesday",
+            "id": 30706364,
+            "id_str": "30706364",
+            "indices":  [
+              74,
+              88
+            ]
+          },
+           {
+            "screen_name": "SirJamesGray",
+            "name": "The 99%",
+            "id": 313103646,
+            "id_str": "313103646",
+            "indices":  [
+              89,
+              102
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": 836638812365271000,
+      "in_reply_to_status_id_str": "836638812365271040",
+      "in_reply_to_user_id": 59525398,
+      "in_reply_to_user_id_str": "59525398",
+      "in_reply_to_screen_name": "Anthony_Parisii",
+      "user":  {
+        "id": 1096721713,
+        "id_str": "1096721713",
+        "name": "Alfredo Nava",
+        "screen_name": "Notorious_Nava",
+        "location": "Hollywood, Los Angeles",
+        "description": "Actor, Community Organizer,& Politician promoting #fitness, #politics, #spirituality,& #Cannabis to benefit your community.\nVote: @GreenPartyUS!",
+        "url": "https://t.co/vuXu9WKcND",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/vuXu9WKcND",
+                "expanded_url": "http://facebook.com/groups/BernieSanders4President/",
+                "display_url": "facebook.com/groups/BernieS…",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 3077,
+        "friends_count": 1485,
+        "listed_count": 307,
+        "created_at": "Thu Jan 17 00:11:44 +0000 2013",
+        "favourites_count": 1517,
+        "utc_offset": -28800,
+        "time_zone": "America/Los_Angeles",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 39213,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "020812",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/787838115/6e05a48d548fcc6a2ebda6658d7ea447.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/787838115/6e05a48d548fcc6a2ebda6658d7ea447.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/810785381079621633/PwVD6HXk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/810785381079621633/PwVD6HXk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096721713/1404193119",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "2280A9",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:08 +0000 2017",
+      "id": 836757918737260500,
+      "id_str": "836757918737260544",
+      "text": "RT @CNN: President Trump: "Nobody knew health care could be so complicated"\n\nBernie Sanders: 😂😂😂\nhttps://t.co/jgvS0iaSTF https://t.co/zUvcI…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices":  [
+              3,
+              7
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/jgvS0iaSTF",
+            "expanded_url": "http://cnn.it/2m2gJFy",
+            "display_url": "cnn.it/2m2gJFy",
+            "indices":  [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3471939492,
+        "id_str": "3471939492",
+        "name": "ce",
+        "screen_name": "dylonce4",
+        "location": "",
+        "description": "nwts bc ysbh",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 193,
+        "friends_count": 127,
+        "listed_count": 28,
+        "created_at": "Sun Sep 06 15:45:33 +0000 2015",
+        "favourites_count": 55054,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31683,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/831163400692457473/gY6cqTK5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/831163400692457473/gY6cqTK5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3471939492/1461975166",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Tue Feb 28 12:37:01 +0000 2017",
+        "id": 836555807865077800,
+        "id_str": "836555807865077761",
+        "text": "President Trump: "Nobody knew health care could be so complicated"\n\nBernie Sanders: 😂😂😂\nhttps://t.co/jgvS0iaSTF https://t.co/zUvcIKNSr0",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/jgvS0iaSTF",
+              "expanded_url": "http://cnn.it/2m2gJFy",
+              "display_url": "cnn.it/2m2gJFy",
+              "indices":  [
+                88,
+                111
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 836555805218459600,
+              "id_str": "836555805218459648",
+              "indices":  [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "url": "https://t.co/zUvcIKNSr0",
+              "display_url": "pic.twitter.com/zUvcIKNSr0",
+              "expanded_url": "https://twitter.com/CNN/status/836555807865077761/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 680,
+                  "h": 375,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities":  {
+          "media":  [
+             {
+              "id": 836555805218459600,
+              "id_str": "836555805218459648",
+              "indices":  [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "url": "https://t.co/zUvcIKNSr0",
+              "display_url": "pic.twitter.com/zUvcIKNSr0",
+              "expanded_url": "https://twitter.com/CNN/status/836555807865077761/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 680,
+                  "h": 375,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="https://www.sprinklr.com" rel="nofollow">Sprinklr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 759251,
+          "id_str": "759251",
+          "name": "CNN",
+          "screen_name": "CNN",
+          "location": "",
+          "description": "It’s our job to #GoThere and tell the most difficult stories. Come with us!\n\n➡︎ For more breaking news updates follow @CNNBRK",
+          "url": "http://t.co/IaghNW8Xm2",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/IaghNW8Xm2",
+                  "expanded_url": "http://www.cnn.com",
+                  "display_url": "cnn.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 32169044,
+          "friends_count": 1119,
+          "listed_count": 124275,
+          "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+          "favourites_count": 1461,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 119938,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "323232",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1486579954",
+          "profile_link_color": "004287",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "EEEEEE",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10305,
+        "favorite_count": 20997,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10305,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:06 +0000 2017",
+      "id": 836757910575185900,
+      "id_str": "836757910575185920",
+      "text": "RT @djbratpack: TY - yes Comey, Chaffetz, Gowdy, and let's not forget that Bernie Sanders used same @GOP lies against Hillary & he never re…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "djbratpack",
+            "name": "DB's_a_Dem-a-Cat",
+            "id": 1869575251,
+            "id_str": "1869575251",
+            "indices":  [
+              3,
+              14
+            ]
+          },
+           {
+            "screen_name": "GOP",
+            "name": "GOP",
+            "id": 11134252,
+            "id_str": "11134252",
+            "indices":  [
+              100,
+              104
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 1869575251,
+        "id_str": "1869575251",
+        "name": "DB's_a_Dem-a-Cat",
+        "screen_name": "djbratpack",
+        "location": "Raising Cane in Missouri ;)b",
+        "description": "Honest/Rational, #Cat / #Dog #Rescue #Veteran #DAV #POCAlly #LGBTAlly #StillWithHer #ObamaAlly #Athiest #NeverBernie #NotMyPresident #TheResistance #Resist",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 9869,
+        "friends_count": 10457,
+        "listed_count": 350,
+        "created_at": "Sun Sep 15 23:26:47 +0000 2013",
+        "favourites_count": 104854,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 125393,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/699098508322713600/3Dn34HGN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/699098508322713600/3Dn34HGN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869575251/1479110694",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Nov 09 02:55:36 +0000 2016",
+        "id": 796184435200839700,
+        "id_str": "796184435200839680",
+        "text": "TY - yes Comey, Chaffetz, Gowdy, and let's not forget that Bernie Sanders used same @GOP lies against Hillary & he… https://t.co/Gr3nsHe971",
+        "truncated": true,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "GOP",
+              "name": "GOP",
+              "id": 11134252,
+              "id_str": "11134252",
+              "indices":  [
+                84,
+                88
+              ]
+            }
+          ],
+          "urls":  [
+             {
+              "url": "https://t.co/Gr3nsHe971",
+              "expanded_url": "https://twitter.com/i/web/status/796184435200839680",
+              "display_url": "twitter.com/i/web/status/7…",
+              "indices":  [
+                120,
+                143
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 1869575251,
+          "id_str": "1869575251",
+          "name": "DB's_a_Dem-a-Cat",
+          "screen_name": "djbratpack",
+          "location": "Raising Cane in Missouri ;)b",
+          "description": "Honest/Rational, #Cat / #Dog #Rescue #Veteran #DAV #POCAlly #LGBTAlly #StillWithHer #ObamaAlly #Athiest #NeverBernie #NotMyPresident #TheResistance #Resist",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 9869,
+          "friends_count": 10457,
+          "listed_count": 350,
+          "created_at": "Sun Sep 15 23:26:47 +0000 2013",
+          "favourites_count": 104854,
+          "utc_offset": -21600,
+          "time_zone": "Central Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 125393,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "ACDED6",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/699098508322713600/3Dn34HGN_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/699098508322713600/3Dn34HGN_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869575251/1479110694",
+          "profile_link_color": "3B94D9",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "F6F6F6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 796177993601269800,
+        "quoted_status_id_str": "796177993601269760",
+        "quoted_status":  {
+          "created_at": "Wed Nov 09 02:30:00 +0000 2016",
+          "id": 796177993601269800,
+          "id_str": "796177993601269760",
+          "text": "And Comey https://t.co/nyqQQT5JbH",
+          "truncated": false,
+          "entities":  {
+            "hashtags":  [],
+            "symbols":  [],
+            "user_mentions":  [],
+            "urls":  [
+               {
+                "url": "https://t.co/nyqQQT5JbH",
+                "expanded_url": "https://twitter.com/djbratpack/status/796176432829497344",
+                "display_url": "twitter.com/djbratpack/sta…",
+                "indices":  [
+                  10,
+                  33
+                ]
+              }
+            ]
+          },
+          "metadata":  {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user":  {
+            "id": 4011963556,
+            "id_str": "4011963556",
+            "name": "pkapauline@gmail.com",
+            "screen_name": "pkapauline1",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities":  {
+              "description":  {
+                "urls":  []
+              }
+            },
+            "protected": false,
+            "followers_count": 194,
+            "friends_count": 731,
+            "listed_count": 32,
+            "created_at": "Wed Oct 21 20:18:19 +0000 2015",
+            "favourites_count": 15826,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 18430,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": true,
+          "quoted_status_id": 796176432829497300,
+          "quoted_status_id_str": "796176432829497344",
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 5,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 796177993601269800,
+      "quoted_status_id_str": "796177993601269760",
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:05 +0000 2017",
+      "id": 836757906246746100,
+      "id_str": "836757906246746112",
+      "text": "RT @AC360: Bernie Sanders: "I am very nervous that this President is trying to divide us up by going after undocumented people" https://t.c…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "AC360",
+            "name": "Anderson Cooper 360°",
+            "id": 227837742,
+            "id_str": "227837742",
+            "indices":  [
+              3,
+              9
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 799394639845408800,
+        "id_str": "799394639845408770",
+        "name": "Nancy",
+        "screen_name": "WiseOwl_ACK",
+        "location": "Nantucket, MA",
+        "description": "Social worker, Mum, Nantucket girl. Curious about everything. Value integrity. Love people, animals, music, baking, cappuccino, books. Wellesley '84, UGA '91.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 237,
+        "friends_count": 2645,
+        "listed_count": 16,
+        "created_at": "Thu Nov 17 23:31:49 +0000 2016",
+        "favourites_count": 2282,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2001,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/812726307306012672/kYsBgVDx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/812726307306012672/kYsBgVDx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/799394639845408770/1482242122",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Mar 01 01:22:02 +0000 2017",
+        "id": 836748330541674500,
+        "id_str": "836748330541674497",
+        "text": "Bernie Sanders: "I am very nervous that this President is trying to divide us up by going after undocumented people" https://t.co/GQr9GURGyW",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/GQr9GURGyW",
+              "expanded_url": "http://snpy.tv/2lmjeyt",
+              "display_url": "snpy.tv/2lmjeyt",
+              "indices":  [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 227837742,
+          "id_str": "227837742",
+          "name": "Anderson Cooper 360°",
+          "screen_name": "AC360",
+          "location": "New York, NY",
+          "description": "A behind the scenes look at Anderson Cooper 360°. Watch AC360° M-F at 8pm/ET on @CNN and follow Anderson on twitter: @AndersonCooper.",
+          "url": "http://t.co/PHe2WJCDZH",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/PHe2WJCDZH",
+                  "expanded_url": "http://ac360.com",
+                  "display_url": "ac360.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 838610,
+          "friends_count": 157,
+          "listed_count": 5986,
+          "created_at": "Fri Dec 17 23:37:19 +0000 2010",
+          "favourites_count": 432,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 60821,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/307362156/TWITTER_BG_8pm10pm.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/307362156/TWITTER_BG_8pm10pm.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2672195473/1a3f0555bf9697793f78ef2d5ba01006_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2672195473/1a3f0555bf9697793f78ef2d5ba01006_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/227837742/1478730756",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 38,
+        "favorite_count": 101,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 38,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:05 +0000 2017",
+      "id": 836757904443248600,
+      "id_str": "836757904443248644",
+      "text": "Video: Bernie Sanders is NOT a Moron. https://t.co/Hm6DIoISWs #TheAmazingAtheist https://t.co/cg6cmrrRE7",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "TheAmazingAtheist",
+            "indices":  [
+              62,
+              80
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/Hm6DIoISWs",
+            "expanded_url": "http://tinyurl.com/hkkvehx",
+            "display_url": "tinyurl.com/hkkvehx",
+            "indices":  [
+              38,
+              61
+            ]
+          }
+        ],
+        "media":  [
+           {
+            "id": 836757902518014000,
+            "id_str": "836757902518013952",
+            "indices":  [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/C5zC4QaWUAAPIyi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5zC4QaWUAAPIyi.jpg",
+            "url": "https://t.co/cg6cmrrRE7",
+            "display_url": "pic.twitter.com/cg6cmrrRE7",
+            "expanded_url": "https://twitter.com/AtheistDB/status/836757904443248644/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "small":  {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium":  {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities":  {
+        "media":  [
+           {
+            "id": 836757902518014000,
+            "id_str": "836757902518013952",
+            "indices":  [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/C5zC4QaWUAAPIyi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C5zC4QaWUAAPIyi.jpg",
+            "url": "https://t.co/cg6cmrrRE7",
+            "display_url": "pic.twitter.com/cg6cmrrRE7",
+            "expanded_url": "https://twitter.com/AtheistDB/status/836757904443248644/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "small":  {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large":  {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium":  {
+                "w": 480,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://atheistdb.spleeks.com" rel="nofollow">AtheistDB.Spleeks.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 4727522609,
+        "id_str": "4727522609",
+        "name": "Atheist Database",
+        "screen_name": "AtheistDB",
+        "location": "",
+        "description": "Aggregation of news about atheist and atheism in articles, videos and blogs found through out the internet.\nhttps://t.co/zwiT3pkdF4\nhttps://t.co/8pP9cf497M",
+        "url": "https://t.co/zwiT3pkdF4",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/zwiT3pkdF4",
+                "expanded_url": "http://atheistdb.spleeks.com",
+                "display_url": "atheistdb.spleeks.com",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "https://t.co/zwiT3pkdF4",
+                "expanded_url": "http://atheistdb.spleeks.com",
+                "display_url": "atheistdb.spleeks.com",
+                "indices":  [
+                  108,
+                  131
+                ]
+              },
+               {
+                "url": "https://t.co/8pP9cf497M",
+                "expanded_url": "https://www.facebook.com/groups/157045781331454",
+                "display_url": "facebook.com/groups/1570457…",
+                "indices":  [
+                  132,
+                  155
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 0,
+        "listed_count": 5,
+        "created_at": "Wed Jan 06 19:32:41 +0000 2016",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1483,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686285079535038464/TkDXL_Ba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/686285079535038464/TkDXL_Ba_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:04 +0000 2017",
+      "id": 836757900240502800,
+      "id_str": "836757900240502784",
+      "text": "RT @hrenee80: Bernie Sanders: I'm very nervous that this President is "trying to divide us up by going after undocumented people" https://t…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "hrenee80",
+            "name": "Heather",
+            "id": 39753444,
+            "id_str": "39753444",
+            "indices":  [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 862192382,
+        "id_str": "862192382",
+        "name": "RGB",
+        "screen_name": "1RGB",
+        "location": "",
+        "description": "The problem is not that people are taxed too little, the problem is that government spends too much ~Ronald Reagan",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1300,
+        "friends_count": 1375,
+        "listed_count": 26,
+        "created_at": "Thu Oct 04 23:24:25 +0000 2012",
+        "favourites_count": 6266,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11278,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000234260604/2cbddb5c777b5ef6bf0d43b178cd197a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000234260604/2cbddb5c777b5ef6bf0d43b178cd197a_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/862192382/1443731845",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Mar 01 01:43:39 +0000 2017",
+        "id": 836753767835938800,
+        "id_str": "836753767835938816",
+        "text": "Bernie Sanders: I'm very nervous that this President is "trying to divide us up by going after undocumented people" https://t.co/tuZdrmYOOY",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [],
+          "media":  [
+             {
+              "id": 836753758864330800,
+              "id_str": "836753758864330755",
+              "indices":  [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/C5y_HEGU0AMmB-n.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5y_HEGU0AMmB-n.jpg",
+              "url": "https://t.co/tuZdrmYOOY",
+              "display_url": "pic.twitter.com/tuZdrmYOOY",
+              "expanded_url": "https://twitter.com/hrenee80/status/836753767835938816/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "large":  {
+                  "w": 350,
+                  "h": 242,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 235,
+                  "resize": "fit"
+                },
+                "medium":  {
+                  "w": 350,
+                  "h": 242,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities":  {
+          "media":  [
+             {
+              "id": 836753758864330800,
+              "id_str": "836753758864330755",
+              "indices":  [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/C5y_HEGU0AMmB-n.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5y_HEGU0AMmB-n.jpg",
+              "url": "https://t.co/tuZdrmYOOY",
+              "display_url": "pic.twitter.com/tuZdrmYOOY",
+              "expanded_url": "https://twitter.com/hrenee80/status/836753767835938816/photo/1",
+              "type": "animated_gif",
+              "sizes":  {
+                "large":  {
+                  "w": 350,
+                  "h": 242,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small":  {
+                  "w": 340,
+                  "h": 235,
+                  "resize": "fit"
+                },
+                "medium":  {
+                  "w": 350,
+                  "h": 242,
+                  "resize": "fit"
+                }
+              },
+              "video_info":  {
+                "aspect_ratio":  [
+                  175,
+                  121
+                ],
+                "variants":  [
+                   {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/C5y_HEGU0AMmB-n.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 39753444,
+          "id_str": "39753444",
+          "name": "Heather",
+          "screen_name": "hrenee80",
+          "location": "",
+          "description": "YUGE Trump supporter! Proud Mom & Wife",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 9449,
+          "friends_count": 9026,
+          "listed_count": 33,
+          "created_at": "Wed May 13 13:49:39 +0000 2009",
+          "favourites_count": 25332,
+          "utc_offset": -21600,
+          "time_zone": "Central Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 13464,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/833405658003275778/Uu4bmEnO_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/833405658003275778/Uu4bmEnO_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/39753444/1473783978",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:03 +0000 2017",
+      "id": 836757898311118800,
+      "id_str": "836757898311118853",
+      "text": "RT @CNN: President Trump: "Nobody knew health care could be so complicated"\n\nBernie Sanders: 😂😂😂\nhttps://t.co/jgvS0iaSTF https://t.co/zUvcI…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices":  [
+              3,
+              7
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/jgvS0iaSTF",
+            "expanded_url": "http://cnn.it/2m2gJFy",
+            "display_url": "cnn.it/2m2gJFy",
+            "indices":  [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 360214671,
+        "id_str": "360214671",
+        "name": "Savage Trainee",
+        "screen_name": "Want_A_Battle",
+        "location": "Where the singles dwell. @hm",
+        "description": "Welcome To My Randomness ~_~",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 274,
+        "friends_count": 248,
+        "listed_count": 28,
+        "created_at": "Mon Aug 22 21:37:35 +0000 2011",
+        "favourites_count": 2983,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 55573,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679218873/b48a0b6820b2d92aa4572d4e94e66886.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679218873/b48a0b6820b2d92aa4572d4e94e66886.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/807732448620462080/Ini2PRA2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/807732448620462080/Ini2PRA2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/360214671/1480872736",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Tue Feb 28 12:37:01 +0000 2017",
+        "id": 836555807865077800,
+        "id_str": "836555807865077761",
+        "text": "President Trump: "Nobody knew health care could be so complicated"\n\nBernie Sanders: 😂😂😂\nhttps://t.co/jgvS0iaSTF https://t.co/zUvcIKNSr0",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/jgvS0iaSTF",
+              "expanded_url": "http://cnn.it/2m2gJFy",
+              "display_url": "cnn.it/2m2gJFy",
+              "indices":  [
+                88,
+                111
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 836555805218459600,
+              "id_str": "836555805218459648",
+              "indices":  [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "url": "https://t.co/zUvcIKNSr0",
+              "display_url": "pic.twitter.com/zUvcIKNSr0",
+              "expanded_url": "https://twitter.com/CNN/status/836555807865077761/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 680,
+                  "h": 375,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities":  {
+          "media":  [
+             {
+              "id": 836555805218459600,
+              "id_str": "836555805218459648",
+              "indices":  [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "url": "https://t.co/zUvcIKNSr0",
+              "display_url": "pic.twitter.com/zUvcIKNSr0",
+              "expanded_url": "https://twitter.com/CNN/status/836555807865077761/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 680,
+                  "h": 375,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="https://www.sprinklr.com" rel="nofollow">Sprinklr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 759251,
+          "id_str": "759251",
+          "name": "CNN",
+          "screen_name": "CNN",
+          "location": "",
+          "description": "It’s our job to #GoThere and tell the most difficult stories. Come with us!\n\n➡︎ For more breaking news updates follow @CNNBRK",
+          "url": "http://t.co/IaghNW8Xm2",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/IaghNW8Xm2",
+                  "expanded_url": "http://www.cnn.com",
+                  "display_url": "cnn.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 32169044,
+          "friends_count": 1119,
+          "listed_count": 124275,
+          "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+          "favourites_count": 1461,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 119938,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "323232",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1486579954",
+          "profile_link_color": "004287",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "EEEEEE",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10305,
+        "favorite_count": 20997,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10305,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:03 +0000 2017",
+      "id": 836757898302799900,
+      "id_str": "836757898302799872",
+      "text": "They just marched out Trump's whole cabinet it was literally a parade of swamp monsters #JointAddress",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "JointAddress",
+            "indices":  [
+              88,
+              101
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3222209577,
+        "id_str": "3222209577",
+        "name": "#BERNIEFACTS",
+        "screen_name": "Bernie_Facts",
+        "location": "Burlington, VT",
+        "description": "DM us for a free tinfoil hat. #StayWoke and #FeelTheBern berniefacts[at]gmail[dot]com",
+        "url": "https://t.co/tBoSRkR6LV",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/tBoSRkR6LV",
+                "expanded_url": "http://berniesanders.com/issues",
+                "display_url": "berniesanders.com/issues",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 17647,
+        "friends_count": 4627,
+        "listed_count": 411,
+        "created_at": "Wed Apr 29 19:08:24 +0000 2015",
+        "favourites_count": 69264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 55188,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/755793045078020096/1jXk2wPV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/755793045078020096/1jXk2wPV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3222209577/1477702054",
+        "profile_link_color": "00CCFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:03 +0000 2017",
+      "id": 836757898172620800,
+      "id_str": "836757898172620801",
+      "text": "RT @donmgreen: https://t.co/vcFZXvlZDb",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "donmgreen",
+            "name": "Don Green",
+            "id": 3074664830,
+            "id_str": "3074664830",
+            "indices":  [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/vcFZXvlZDb",
+            "expanded_url": "http://www.cbsnews.com/videos/bernie-sanders-on-prospects-of-working-with-trump/",
+            "display_url": "cbsnews.com/videos/bernie-…",
+            "indices":  [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3074664830,
+        "id_str": "3074664830",
+        "name": "Don Green",
+        "screen_name": "donmgreen",
+        "location": "#PNW",
+        "description": "RT's do not mean endorsements",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 304,
+        "friends_count": 572,
+        "listed_count": 191,
+        "created_at": "Thu Mar 12 05:35:57 +0000 2015",
+        "favourites_count": 14884,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 70197,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819195633630228480/Xwb8pFTj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819195633630228480/Xwb8pFTj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3074664830/1477172886",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Mar 01 01:59:59 +0000 2017",
+        "id": 836757878702682100,
+        "id_str": "836757878702682113",
+        "text": "https://t.co/vcFZXvlZDb",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/vcFZXvlZDb",
+              "expanded_url": "http://www.cbsnews.com/videos/bernie-sanders-on-prospects-of-working-with-trump/",
+              "display_url": "cbsnews.com/videos/bernie-…",
+              "indices":  [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "und",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 3074664830,
+          "id_str": "3074664830",
+          "name": "Don Green",
+          "screen_name": "donmgreen",
+          "location": "#PNW",
+          "description": "RT's do not mean endorsements",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 304,
+          "friends_count": 572,
+          "listed_count": 191,
+          "created_at": "Thu Mar 12 05:35:57 +0000 2015",
+          "favourites_count": 14884,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 70197,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "DBE9ED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/819195633630228480/Xwb8pFTj_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/819195633630228480/Xwb8pFTj_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3074664830/1477172886",
+          "profile_link_color": "CC3366",
+          "profile_sidebar_border_color": "DBE9ED",
+          "profile_sidebar_fill_color": "E6F6F9",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:03 +0000 2017",
+      "id": 836757897321328600,
+      "id_str": "836757897321328641",
+      "text": "RT @Wonkblog: Bernie Sanders takes another swing at big pharma with bill to allow drug imports https://t.co/Pwy15Tch5d",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "Wonkblog",
+            "name": "Wonkblog",
+            "id": 353225544,
+            "id_str": "353225544",
+            "indices":  [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/Pwy15Tch5d",
+            "expanded_url": "http://wapo.st/2lvr4Xx",
+            "display_url": "wapo.st/2lvr4Xx",
+            "indices":  [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 3438469581,
+        "id_str": "3438469581",
+        "name": "Aerin Cruz",
+        "screen_name": "KAIJUKING23",
+        "location": "Orlando, FL",
+        "description": "Positivity And Faith Come Hand In Hand With Me. lover of All Things SciFi And Nerd Fandom! Especially A Lover of The King of The Monster GODZILLA! FeelTheBern",
+        "url": "https://t.co/UNjjguNg2g",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/UNjjguNg2g",
+                "expanded_url": "https://www.facebook.com/graylycrayon",
+                "display_url": "facebook.com/graylycrayon",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 2796,
+        "friends_count": 2366,
+        "listed_count": 596,
+        "created_at": "Mon Aug 24 22:04:31 +0000 2015",
+        "favourites_count": 203475,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 220865,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/834455754186833920/M3RWEydG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/834455754186833920/M3RWEydG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3438469581/1487926401",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Tue Feb 28 19:54:23 +0000 2017",
+        "id": 836665874635456500,
+        "id_str": "836665874635456512",
+        "text": "Bernie Sanders takes another swing at big pharma with bill to allow drug imports https://t.co/Pwy15Tch5d",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/Pwy15Tch5d",
+              "expanded_url": "http://wapo.st/2lvr4Xx",
+              "display_url": "wapo.st/2lvr4Xx",
+              "indices":  [
+                81,
+                104
+              ]
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://www.socialflow.com" rel="nofollow">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 353225544,
+          "id_str": "353225544",
+          "name": "Wonkblog",
+          "screen_name": "Wonkblog",
+          "location": "Washington, D.C.",
+          "description": "A @washingtonpost vertical exploring economics, policy, business, food, cities, politics, race, poverty, health, data -- and more",
+          "url": "https://t.co/JbL6suu2YF",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "https://t.co/JbL6suu2YF",
+                  "expanded_url": "http://www.washingtonpost.com/news/wonk",
+                  "display_url": "washingtonpost.com/news/wonk",
+                  "indices":  [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 20459,
+          "friends_count": 1165,
+          "listed_count": 980,
+          "created_at": "Thu Aug 11 19:00:15 +0000 2011",
+          "favourites_count": 127,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 10170,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169434099/sKMlhb8p.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169434099/sKMlhb8p.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/753694483989032960/O6WfaPnH_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/753694483989032960/O6WfaPnH_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/353225544/1466030118",
+          "profile_link_color": "19CF86",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 431,
+        "favorite_count": 1528,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 431,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:00 +0000 2017",
+      "id": 836757886034411500,
+      "id_str": "836757886034411520",
+      "text": "RT @joe_kidder2: @Natashaicwhatud SAYS THE SCUMBAG IN CHIEF! BIGGER CROOK THAN BERNIE MADOFF AND RAPING AMERICA LIKE A 13 YR OLD GIRL!",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "joe_kidder2",
+            "name": "Joe Kidder",
+            "id": 4153328243,
+            "id_str": "4153328243",
+            "indices":  [
+              3,
+              15
+            ]
+          },
+           {
+            "screen_name": "Natashaicwhatud",
+            "name": "Natasha Howell",
+            "id": 809235614348415000,
+            "id_str": "809235614348414977",
+            "indices":  [
+              17,
+              33
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 32362515,
+        "id_str": "32362515",
+        "name": "Rhonda Leanne",
+        "screen_name": "AUlady_ALL_IN",
+        "location": "Houston, Texas USA",
+        "description": "loves GOD, Family, AUBURN FOOTBALL, Dems, cook'n shop'n, interior design. Love tigers and eagles. #WarEagle #TheResistance #demforce #notmypresident #RESIST",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 1048,
+        "friends_count": 3681,
+        "listed_count": 32,
+        "created_at": "Fri Apr 17 10:28:28 +0000 2009",
+        "favourites_count": 8894,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8179,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/420446089/182048_1438849791261_1833521000_782732_3081758_n.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/420446089/182048_1438849791261_1833521000_782732_3081758_n.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555567736508530688/8VrH-wn0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555567736508530688/8VrH-wn0_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32362515/1486388338",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Wed Mar 01 01:52:47 +0000 2017",
+        "id": 836756066193006600,
+        "id_str": "836756066193006592",
+        "text": "@Natashaicwhatud SAYS THE SCUMBAG IN CHIEF! BIGGER CROOK THAN BERNIE MADOFF AND RAPING AMERICA LIKE A 13 YR OLD GIRL!",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [
+             {
+              "screen_name": "Natashaicwhatud",
+              "name": "Natasha Howell",
+              "id": 809235614348415000,
+              "id_str": "809235614348414977",
+              "indices":  [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls":  []
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 836615947993636900,
+        "in_reply_to_status_id_str": "836615947993636866",
+        "in_reply_to_user_id": 809235614348415000,
+        "in_reply_to_user_id_str": "809235614348414977",
+        "in_reply_to_screen_name": "Natashaicwhatud",
+        "user":  {
+          "id": 4153328243,
+          "id_str": "4153328243",
+          "name": "Joe Kidder",
+          "screen_name": "joe_kidder2",
+          "location": "",
+          "description": "I WAS A REPUBLICAN WHEN I WAS YOUNG AND DUMB. NOW I'M YOUR WORST REPUBLICAN- I'M YOUR EX-REPUBLICAN CUZ YOU'VE GOT TO STAND FOR SOMETHING!",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 2166,
+          "friends_count": 2571,
+          "listed_count": 72,
+          "created_at": "Tue Nov 10 02:13:26 +0000 2015",
+          "favourites_count": 984,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 28064,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/742826671699546112/8t02ilB__normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/742826671699546112/8t02ilB__normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4153328243/1481073255",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:00 +0000 2017",
+      "id": 836757885396865000,
+      "id_str": "836757885396865032",
+      "text": "Interdimensional Travel Advisory: Baseline Timeline currently at high levels of #JointAddress, recommend routing thru Bernie Won Timeline.",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "JointAddress",
+            "indices":  [
+              80,
+              93
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 2414766114,
+        "id_str": "2414766114",
+        "name": "very bad timelines",
+        "screen_name": "WorstTimelines",
+        "location": "an unbounded multiverse",
+        "description": "tweets from horrifying theoretical alternate dystopian realities somehow worse than ours",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 117,
+        "friends_count": 791,
+        "listed_count": 1,
+        "created_at": "Thu Mar 27 18:51:28 +0000 2014",
+        "favourites_count": 94,
+        "utc_offset": -14400,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 59,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449267245651202049/mE9eihrm.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449267245651202049/mE9eihrm.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/834672930151804928/9IxKDFys_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/834672930151804928/9IxKDFys_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2414766114/1487837206",
+        "profile_link_color": "A80000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 02:00:00 +0000 2017",
+      "id": 836757884398628900,
+      "id_str": "836757884398628864",
+      "text": "RT @CNN: President Trump: "Nobody knew health care could be so complicated"\n\nBernie Sanders: 😂😂😂\nhttps://t.co/jgvS0iaSTF https://t.co/zUvcI…",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices":  [
+              3,
+              7
+            ]
+          }
+        ],
+        "urls":  [
+           {
+            "url": "https://t.co/jgvS0iaSTF",
+            "expanded_url": "http://cnn.it/2m2gJFy",
+            "display_url": "cnn.it/2m2gJFy",
+            "indices":  [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 209381641,
+        "id_str": "209381641",
+        "name": "Roletha",
+        "screen_name": "RolethaAKARoxy",
+        "location": "Dallas, TX",
+        "description": "Blessed & highly favored. WARNING! Still under construction. My Ma & Pa raised me. Licensed psych therapist & life long member, Alpha Kappa Alpha Sorority, Inc.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 73,
+        "friends_count": 68,
+        "listed_count": 6,
+        "created_at": "Fri Oct 29 02:31:55 +0000 2010",
+        "favourites_count": 507,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2829,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568563097/vakd9mllbrv80e4ft05p.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568563097/vakd9mllbrv80e4ft05p.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686766966141390848/qp_rleIj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/686766966141390848/qp_rleIj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/209381641/1379642655",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "created_at": "Tue Feb 28 12:37:01 +0000 2017",
+        "id": 836555807865077800,
+        "id_str": "836555807865077761",
+        "text": "President Trump: "Nobody knew health care could be so complicated"\n\nBernie Sanders: 😂😂😂\nhttps://t.co/jgvS0iaSTF https://t.co/zUvcIKNSr0",
+        "truncated": false,
+        "entities":  {
+          "hashtags":  [],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  [
+             {
+              "url": "https://t.co/jgvS0iaSTF",
+              "expanded_url": "http://cnn.it/2m2gJFy",
+              "display_url": "cnn.it/2m2gJFy",
+              "indices":  [
+                88,
+                111
+              ]
+            }
+          ],
+          "media":  [
+             {
+              "id": 836555805218459600,
+              "id_str": "836555805218459648",
+              "indices":  [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "url": "https://t.co/zUvcIKNSr0",
+              "display_url": "pic.twitter.com/zUvcIKNSr0",
+              "expanded_url": "https://twitter.com/CNN/status/836555807865077761/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 680,
+                  "h": 375,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities":  {
+          "media":  [
+             {
+              "id": 836555805218459600,
+              "id_str": "836555805218459648",
+              "indices":  [
+                112,
+                135
+              ],
+              "media_url": "http://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C5wLEpTWUAATcHf.jpg",
+              "url": "https://t.co/zUvcIKNSr0",
+              "display_url": "pic.twitter.com/zUvcIKNSr0",
+              "expanded_url": "https://twitter.com/CNN/status/836555807865077761/photo/1",
+              "type": "photo",
+              "sizes":  {
+                "medium":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                },
+                "small":  {
+                  "w": 680,
+                  "h": 375,
+                  "resize": "fit"
+                },
+                "thumb":  {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large":  {
+                  "w": 1024,
+                  "h": 564,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href="https://www.sprinklr.com" rel="nofollow">Sprinklr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 759251,
+          "id_str": "759251",
+          "name": "CNN",
+          "screen_name": "CNN",
+          "location": "",
+          "description": "It’s our job to #GoThere and tell the most difficult stories. Come with us!\n\n➡︎ For more breaking news updates follow @CNNBRK",
+          "url": "http://t.co/IaghNW8Xm2",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/IaghNW8Xm2",
+                  "expanded_url": "http://www.cnn.com",
+                  "display_url": "cnn.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 32169044,
+          "friends_count": 1119,
+          "listed_count": 124275,
+          "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+          "favourites_count": 1461,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 119938,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "323232",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1486579954",
+          "profile_link_color": "004287",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "EEEEEE",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10305,
+        "favorite_count": 20997,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10305,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Wed Mar 01 01:59:59 +0000 2017",
+      "id": 836757881143853000,
+      "id_str": "836757881143853056",
+      "text": "I miss the Bernie mac show",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 711223596,
+        "id_str": "711223596",
+        "name": "sprinkles☁️",
+        "screen_name": "yahneliii",
+        "location": "Chicago, IL",
+        "description": "",
+        "url": "https://t.co/WDpR22KLpT",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/WDpR22KLpT",
+                "expanded_url": "http://browneyedbxbe.tumblr.com",
+                "display_url": "browneyedbxbe.tumblr.com",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 704,
+        "friends_count": 287,
+        "listed_count": 9,
+        "created_at": "Sun Jul 22 20:29:43 +0000 2012",
+        "favourites_count": 15548,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36383,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/836046436622086145/OCtpQWkz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/836046436622086145/OCtpQWkz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/711223596/1486782581",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place":  {
+        "id": "6a2d097551205962",
+        "url": "https://api.twitter.com/1.1/geo/id/6a2d097551205962.json",
+        "place_type": "city",
+        "name": "Round Lake Beach",
+        "full_name": "Round Lake Beach, IL",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -88.120296,
+                42.364202
+              ],
+               [
+                -88.043395,
+                42.364202
+              ],
+               [
+                -88.043395,
+                42.3979716
+              ],
+               [
+                -88.120296,
+                42.3979716
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.069,
+    "max_id": 836757922088640500,
+    "max_id_str": "836757922088640512",
+    "next_results": "?max_id=836757881143853055&q=bernie&include_entities=1",
+    "query": "bernie",
+    "refresh_url": "?since_id=836757922088640512&q=bernie&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

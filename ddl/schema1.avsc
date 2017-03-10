@@ -1,0 +1,7 @@
+{"namespace": "schema1.avro",
+ "type": "record",
+ "name": "schema1",
+ "fields": [
+     {"name": "name", "type": "string"}
+ ]
+}
